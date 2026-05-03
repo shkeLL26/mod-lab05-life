@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\mod-lab05-life\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{553EF050-2D6A-4BFA-9E64-165BEBEF9B01}|Life\\Life.csproj|c:\\users\\user\\source\\repos\\mod-lab05-life\\life\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{553EF050-2D6A-4BFA-9E64-165BEBEF9B01}|Life\\Life.csproj|solutionrelative:life\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F40F68-0190-439C-B632-3FDF4AF8EDD3}|LifeTests\\LifeTests.csproj|c:\\users\\user\\source\\repos\\mod-lab05-life\\lifetests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6F40F68-0190-439C-B632-3FDF4AF8EDD3}|LifeTests\\LifeTests.csproj|solutionrelative:lifetests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1458,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\mod-lab05-life\\LifeTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "LifeTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\mod-lab05-life\\LifeTests\\UnitTest1.cs",
+              "RelativeToolTip": "LifeTests\\UnitTest1.cs",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAqwNkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T11:18:40.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\mod-lab05-life\\Life\\Program.cs",
+              "RelativeDocumentMoniker": "Life\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\mod-lab05-life\\Life\\Program.cs",
+              "RelativeToolTip": "Life\\Program.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAYwDwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T10:38:08.131Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
